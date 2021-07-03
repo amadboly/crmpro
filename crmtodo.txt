@@ -1,0 +1,27 @@
+Dia Diagram for React steps
+Dia Diagram for Djagno steps
+
+Front-end React App to Do List:-
+to create custom CSS file
+to change background color of customers list
+to change background color of leads list
+to solve the expanded row problem in both customers and leads list
+//to create New form for both customers and leads to handle adding new records -> Done 😀️ 😀️
+//to create Edit form for both customers and leads to handle editing records -> Done 😁️
+//to create Delete page with read-only form fields for both customers and leads for handling delete records 😀️ 😀️
+//ModBy data not show in leads view!!!!! ->Done 😀️ 😀️
+All forms should be protected against SQL injections for security
+//Contacts CRUD  views to be created -> 😁️ 😁️
+Users Login form
+Home page or Dashboard to be created
+clear console logs warning and errors
+spell checking
+Marketing CRUD views to be created
+
+Back-end Djagno App to do list:-
+all security check list from "Deployment to Production server" implementation
+//Contacts model,serialize-rs ,admin and URL to be created -> Done 😀️ 😀
+//Marketing model,serialize-rs ,admin and URL to be created️ -> Done 😀 😀
+User Auth.
+Multi Tenant
+Multi Databases
